@@ -1,0 +1,9 @@
+
+#showdiv:hover #hidediv{
+    top: 0;
+
+}
+#hidediv{
+    transition:top 1s ease-out ;
+}
+

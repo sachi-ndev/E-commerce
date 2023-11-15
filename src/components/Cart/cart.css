@@ -1,0 +1,11 @@
+#ovrflow {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  #ovrflow::-webkit-scrollbar {
+    display: none;
+  }
+
+  body{
+    background-color:rgb(243,244,246) ;
+  }
